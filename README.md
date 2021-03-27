@@ -1,2 +1,2 @@
-# hana_app
-HANA_APP
+# ui5_app
+UI5_APP
